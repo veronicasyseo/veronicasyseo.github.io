@@ -25,11 +25,13 @@ Outside of work and class, I'm a keen follower of tech investments and internati
 *Freelancing* has been something I've dabbled in for some time: I typically write copy and translate documents in Chinese and Korean to English, and vice versa. I use [Upwork](https://www.upwork.com/freelancers/~016051e2419194c433).
 
 
-If you'd like to talk, shoot me an email at syseo (at) connect.ust.hk and I'll get back to you within a day. I'm almost always online.
-
-
 I'll leave you with a Spotify [playlist](https://open.spotify.com/user/22haigo43j4sbwo2nmwmjmbsi/playlist/3uipThQeqyF8GFycFKE5Xp), because I can't do without music. Electronic (I like [Nosaj Thing](https://www.youtube.com/watch?v=mNe3MvJzTyk)), garage rock (I love [The Strokes](https://www.youtube.com/watch?v=_l09H-3zzgA)) and folk (I don't have enough superlatives for [Elliott Smith](https://www.youtube.com/watch?v=p4cJv6s_Yjw)) are my preferred genres.
 
+
+---
+
+
+If you'd like to talk, shoot me an email at syseo (at) connect.ust.hk and I'll get back to you within a day. I'm almost always online.
 
 Check out my professional summary at [LinkedIn](https://linkedin.com/in/veronicasyseo) if you'd like. View my [Devpost](https://devpost.com/veronicaseo) for hackathon projects, and [Github](https://github.com/veronicasyseo) for the code. Lastly, for now, this is a link to my [*resume*](https://drive.google.com/open?id=0B-Zp9ItZycBFZERUeWdma0lGVVE).
 

@@ -1,20 +1,20 @@
-## Hi! Thanks for dropping by.
+## Hi! Thanks for stopping by.
 
 ---
 
-My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at *the Hong Kong University of Science and Technology* due to graduate in December 2016. Prior to relocating here for university, I read the International Baccalaureate and the IGCSE at [*the British International School Vietnam, Ho Chi Minh City*](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwi9-9y5-afRAhXFt48KHfAPAT8QFgg0MAc&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBritish_International_School_Ho_Chi_Minh_City&usg=AFQjCNHHo8GEh5L7mLqhRjl7JdXS2Kkivg&bvm=bv.142059868,d.dGo). Even before that, I was raised and educated in Seoul, Beijing and Hong Kong.
+My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at *the Hong Kong University of Science and Technology* due to graduate in December 2016. Prior to relocating here for university, I read the International Baccalaureate and the IGCSE at the British International School Vietnam, Ho Chi Minh City. Even before that, I was raised and educated in Seoul, Beijing and Hong Kong.
 
 
 At university, I've taken a wide range of courses, especially in finance (declared a Business Minor) and sociology (still debating whether or not to declare a Social Science minor) in addition to in-major requisites. I also organize [Hackathon at HKUST](https://hack.ust.hk) and travel around the world to attend hacking seminars.
 
 
-Most recently, I was in Detroit, Michigan for *MHacks 8*, where my team won Best Use of BlackRock API for developing a [stock trading card game](https://devpost.com/software/cards-against-aladdin) serving as a gentle introduction to the world of personal finance.
+Most recently, I was in Detroit, Michigan for *MHacks 8*, where my team won Best Use of BlackRock API for developing a [stock trading card game](https://devpost.com/software/cards-against-aladdin) serving as a gentle introduction to the world of personal finance.Yeah, I like FinTech.
 
-Yeah, I like FinTech.
+---
 
+#### **Currently, I'm on the lookout for corporate finance or systems engineering full time roles for a *January 2018 start* - particularly in venture capital, management consulting and product management. Data science is an area I'd like to explore as well.**
 
-Currently, I'm on the lookout for corporate finance or systems engineering full time roles for a *January 2018 start* - particularly in venture capital, management consulting and product management. Data science is an area I'd like to explore as well.
-
+---
 
 As of winter 2016-17, I'm slowly but surely getting on with data visualization, computer vision and machine learning as part of a Final Year Consulting project to build a custom optical character recognition software for use at a logistics warehouse. More details will be released as we make more and more progress.
 

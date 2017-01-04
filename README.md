@@ -2,7 +2,7 @@
 
 ---
 
-![Here's a recent photo of me - I'm on the right.](/Users/veronicaseo/veronicasyseo.github.io/wilbynprof.jpeg "Corporate Finance Fall 2016")
+![Here's a recent photo of me - I'm on the right.](https://github.com/veronicasyseo/veronicasyseo.github.io/blob/master/wilbynprof.jpeg "Corporate Finance Fall 2016")
 
 
 My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at *the Hong Kong University of Science and Technology* due to graduate in December 2016. Prior to relocating here for university, I read the International Baccalaureate and the IGCSE at the British International School Vietnam, Ho Chi Minh City. Even before that, I was raised and educated in Seoul, Beijing and Hong Kong.
@@ -11,7 +11,7 @@ My name is **Veronica Seo**, and I am currently an [Industrial Engineering](http
 At university, I've taken a wide range of courses, especially in finance (declared a Business Minor) and sociology (still debating whether or not to declare a Social Science minor) in addition to in-major requisites. I also organize [Hackathon at HKUST](https://hack.ust.hk) and travel around the world to attend hacking seminars.
 
 
-Most recently, I was in Detroit, Michigan for *MHacks 8*, where my team won Best Use of BlackRock API for developing a [stock trading card game](https://devpost.com/software/cards-against-aladdin) serving as a gentle introduction to the world of personal finance.Yeah, I like FinTech.
+Most recently, I was in Detroit, Michigan for *MHacks 8*, where my team won Best Use of BlackRock API for developing a [stock trading card game](https://devpost.com/software/cards-against-aladdin) serving as a gentle introduction to the world of personal finance.
 
 ---
 

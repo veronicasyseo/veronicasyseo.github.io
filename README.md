@@ -2,13 +2,13 @@
 
 ---
 
-My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at *the Hong Kong University of Science and Technology* due to graduate in December 2016. Prior to relocating here for university, I read the International Baccalaureate and the IGCSE at the British International School Vietnam, Ho Chi Minh City. Even before that, I was raised and educated in Seoul, Beijing and Hong Kong.
+My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at *the Hong Kong University of Science and Technology* due to graduate in December 2016. Prior to relocating here for university, I read the International Baccalaureate and the IGCSE at the British International School Vietnam, Ho Chi Minh City. Even before that, I was raised and educated in Hong Kong, Beijing and Seoul (in order of recency).
 
 
-At university, I've taken a wide range of courses, especially in finance (declared a Business Minor) and sociology (still debating whether or not to declare a Social Science minor) in addition to in-major requisites. I also organize [Hackathon at HKUST](https://hack.ust.hk) and travel around the world to attend hacking seminars.
+At university, I've taken a wide range of courses, especially in finance (declared a Business minor) and sociology (still debating whether or not to declare a Social Science minor) in addition to in-major requisites. I also organize [Hackathon at HKUST](https://hack.ust.hk) and travel around the world to attend hacking conferences. I love that I get to travel near and far to work with a different group of good friends each time, while hacking on a product that matters to all of us.
 
 
-Most recently, I was in Detroit, Michigan for *MHacks 8*, where my team won Best Use of BlackRock API for developing a [stock trading card game](https://devpost.com/software/cards-against-aladdin) serving as a gentle introduction to the world of personal finance.
+Most recently, I was in Detroit, Michigan, USA for *MHacks 8*, where my team won Best Use of BlackRock API for developing a [stock trading card game](https://devpost.com/software/cards-against-aladdin) serving as a gentle introduction to the world of personal finance.
 
 ---
 
@@ -16,10 +16,10 @@ Most recently, I was in Detroit, Michigan for *MHacks 8*, where my team won Best
 
 ---
 
-As of winter 2016-17, I'm slowly but surely getting on with data visualization, computer vision and machine learning as part of a Final Year Consulting project to build a custom optical character recognition software for use at a logistics warehouse. More details will be released as we make more and more progress.
+As of winter 2016-17, I'm slowly but surely getting on with data visualization, computer vision and machine learning as part of a Final Year Consulting project to build a custom optical character recognition software for use at a logistics warehouse. More details will be released as we make more and more progress. For now, I'll say that we're using a lot of Python, Java and Matlab, along with many daylight (and after dark) hours and manpower.
 
 
-Outside of work and class, I'm a keen follower of tech investments and international finance - I really like *CB Insights*, *Mattermark* and *Finimize*. I'm currently reading Invisible Man and trying to get back into shape. A group of friends and I are planning a backpacking trip to Sichuan in the coming Spring.
+Outside of work and class, I'm a keen follower of tech investments and international finance - I really like *CB Insights*, *Mattermark* and *Finimize*. Subscribe to their newsletters and give them a read! I'm currently reading *Invisible Man* (recommend it thus far) and trying to get back into shape. A group of friends and I are planning a backpacking trip to Sichuan in the coming Spring. I also spend a lot of time on Facebook curating tech news content and writing posts in hacker groups hoping to catalyze a small fraction of the community around me to read, learn and act.
 
 
 *Freelancing* has been something I've dabbled in for some time: I typically write copy and translate documents in Chinese and Korean to English, and vice versa. I use [Upwork](https://www.upwork.com/freelancers/~016051e2419194c433).

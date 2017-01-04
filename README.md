@@ -1,6 +1,6 @@
 ## Hi! Thanks for dropping by.
 
-My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at the Hong Kong University of Science and Technology due to graduate in December 2016.
+### My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at the Hong Kong University of Science and Technology due to graduate in December 2016.
 
 At university, I've taken a wide range of courses, especially in finance and sociology in addition to in-major requisites. I also organize [Hackathon at HKUST](https://hack.ust.hk) and travel around the world to attend hacking seminars.
 

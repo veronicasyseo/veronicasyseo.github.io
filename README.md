@@ -16,6 +16,8 @@ As of winter 2016-17, I'm slowly but surely getting on with data visualization, 
 
 If you'd like to talk, shoot me an email at syseo (at) connect.ust.hk and I'll get back to you within a day. I'm almost always online.
 
-Check out my summary at [LinkedIn](https://linkedin.com/in/veronicasyseo) if you'd like.
+Check out my summary at [LinkedIn](https://linkedin.com/in/veronicasyseo) if you'd like. Lastly, for now, this is a [link to my *resume*](https://drive.google.com/open?id=0B-Zp9ItZycBFZERUeWdma0lGVVE).
+
+I'll leave you with a Spotify [playlist](https://open.spotify.com/user/22haigo43j4sbwo2nmwmjmbsi/playlist/3uipThQeqyF8GFycFKE5Xp), because I can't do without music.
 
 Have a nice day!

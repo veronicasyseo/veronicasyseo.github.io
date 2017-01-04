@@ -2,9 +2,6 @@
 
 ---
 
-![Here's a recent photo of me - I'm on the right.](https://github.com/veronicasyseo/veronicasyseo.github.io/blob/master/wilbynprof.jpeg "Corporate Finance Fall 2016")
-
-
 My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at *the Hong Kong University of Science and Technology* due to graduate in December 2016. Prior to relocating here for university, I read the International Baccalaureate and the IGCSE at the British International School Vietnam, Ho Chi Minh City. Even before that, I was raised and educated in Seoul, Beijing and Hong Kong.
 
 

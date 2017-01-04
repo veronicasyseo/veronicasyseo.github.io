@@ -2,6 +2,9 @@
 
 ---
 
+![Here's a recent photo of me - I'm on the right.](/Users/veronicaseo/veronicasyseo.github.io/wilbynprof.jpeg "Corporate Finance Fall 2016")
+
+
 My name is **Veronica Seo**, and I am currently an [Industrial Engineering](https://ielm.ust.hk/eng/index.php) senior at *the Hong Kong University of Science and Technology* due to graduate in December 2016. Prior to relocating here for university, I read the International Baccalaureate and the IGCSE at the British International School Vietnam, Ho Chi Minh City. Even before that, I was raised and educated in Seoul, Beijing and Hong Kong.
 
 
@@ -12,7 +15,7 @@ Most recently, I was in Detroit, Michigan for *MHacks 8*, where my team won Best
 
 ---
 
-#### **Currently, I'm on the lookout for corporate finance or systems engineering full time roles for a *January 2018 start* - particularly in venture capital, management consulting and product management. Data science is an area I'd like to explore as well.**
+#### **Currently, I'm on the lookout for corporate finance or systems engineering full time roles for a *January 2018 start* - particularly in venture capital, management consulting and product management. This is a link to my [*resume*](https://drive.google.com/open?id=0B-Zp9ItZycBFZERUeWdma0lGVVE) and my contact information.**
 
 ---
 
@@ -33,7 +36,7 @@ I'll leave you with a Spotify [playlist](https://open.spotify.com/user/22haigo43
 
 If you'd like to talk, shoot me an email at syseo (at) connect.ust.hk and I'll get back to you within a day. I'm almost always online.
 
-Check out my professional summary at [LinkedIn](https://linkedin.com/in/veronicasyseo) if you'd like. View my [Devpost](https://devpost.com/veronicaseo) for hackathon projects, and [Github](https://github.com/veronicasyseo) for the code. Lastly, for now, this is a link to my [*resume*](https://drive.google.com/open?id=0B-Zp9ItZycBFZERUeWdma0lGVVE).
+Check out my professional summary at [LinkedIn](https://linkedin.com/in/veronicasyseo) if you'd like. View my [Devpost](https://devpost.com/veronicaseo) for hackathon projects, and [Github](https://github.com/veronicasyseo) for the code. 
 
 
 Have a nice day!

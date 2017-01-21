@@ -22,7 +22,7 @@ As of winter 2016-17, I'm slowly but surely getting on with data visualization, 
 Outside of work and class, I'm a keen follower of tech investments and international finance - I really like *CB Insights*, *Mattermark* and *Finimize*. Subscribe to their newsletters and give them a read! I'm currently reading *Invisible Man* (recommend it thus far) and trying to get back into shape. A group of friends and I are planning a backpacking trip to Sichuan in the coming Spring. I also spend a lot of time on Facebook curating tech news content and writing posts in hacker groups hoping to catalyze a small fraction of the community around me to read, learn and act.
 
 
-*Freelancing* has been something I've dabbled in for some time: I typically write copy and translate documents in Chinese and Korean to English, and vice versa. I use [Upwork](https://www.upwork.com/freelancers/~016051e2419194c433).
+Writing is something I'm trying to pick up again. Every week (or every other week, or twice a week!) I'll send out a newsletter to a few close friends and others who are interested in reading curated tech, finance, social content from around the world. If you want to sign up, check out my [TinyLetter](http://tinyletter.com/veronicaseo/archive) page.
 
 
 I'll leave you with a Spotify [playlist](https://open.spotify.com/user/22haigo43j4sbwo2nmwmjmbsi/playlist/3uipThQeqyF8GFycFKE5Xp), because I can't do without music. Electronic (I like [Nosaj Thing](https://www.youtube.com/watch?v=mNe3MvJzTyk)), garage rock (I love [The Strokes](https://www.youtube.com/watch?v=_l09H-3zzgA)) and folk (I don't have enough superlatives for [Elliott Smith](https://www.youtube.com/watch?v=p4cJv6s_Yjw)) are my preferred genres.
